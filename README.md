@@ -185,7 +185,7 @@ The knowledge base in [`sample_data.py`](sample_data.py) comes pre-loaded with c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shivam-1919/Standards-saathi.git
+git clone https://github.com/shreyasanvi264-hash/Standard---Saathi.git
 cd Standards-saathi
 ```
 
